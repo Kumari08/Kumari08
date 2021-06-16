@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning React.js
 - [Connect me on LinkedIn](https://www.linkedin.com/in/kumari08/)
 
-- [My Resume](https://drive.google.com/drive/u/0/folders/1q64YivK5BFjvLGXr8opEURh35f_xyVJu)
+- [My Resume](https://drive.google.com/file/d/1wD_1j2WaPRFRqdM0aFRPacdcOQlxMWrb/view?usp=sharing)
 
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kumari08&layout=compact)](https://github.com/Kumari08/github-readme-stats)
 
