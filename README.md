@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋I'm Kumari Neha,a pre-final year student of Information Technology at BIT Mesra.
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
 
