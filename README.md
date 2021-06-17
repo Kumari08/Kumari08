@@ -1,6 +1,6 @@
 ### Hi there 👋I'm Kumari Neha,a pre-final year student of Information Technology at BIT Mesra.
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
-
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
 
 - 🔭 I’m currently working on front-end technologies!
