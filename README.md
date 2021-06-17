@@ -2,10 +2,11 @@
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
-
-- 🔭 I’m currently working on front-end technologies!
-- 🌱 I’m currently learning React.js
-- 
+<b>About Me<b>
+- 🔭 A Web Developer who is also interested in Data Structures and Algorithms.
+- Proficient in C/C++
+- Exploring JavaScript and its frameworks!
+- 🌱 Currently learning React.js
 - <p>
   <em>
     A budding <b>Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Design            Enthusiast,</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">  who is <b>obsessed</b>
