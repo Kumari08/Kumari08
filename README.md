@@ -21,7 +21,7 @@
 
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="20vw" />
 
-- [My Resume](https://drive.google.com/file/d/1wD_1j2WaPRFRqdM0aFRPacdcOQlxMWrb/view?usp=sharing)
+- [My Resume](https://drive.google.com/file/d/138OrZ_ktTzqgUKl3kzfUC9wemSXqcetR/view?usp=sharing)
 
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kumari08&layout=compact)](https://github.com/Kumari08/github-readme-stats)
 
